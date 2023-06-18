@@ -6,10 +6,8 @@ No | ID         | Name | Task descriptions | Contribution %
 -- | ---------- | ---- | ----------------- | --------------
 1  | 1211102687 | Emily Phang Ru Ying | Deal 7 cards to each of the 4 players, players can only play cards that follow the suit or rank of the lead card,Reset the game, Exit the game, Finish a round of game correctly and Display the score of each player |25
 2  | 1211102751 | Teo Yu Jie | Calculate winner of the trick by seeing which player played the highest card with the same suit as the lead card, Set winner of the trick as the one who leads the next card, Save and Resume the Game |25
-3  | 1211102753 | Lim Cai Qing | First card in deck is the first lead card and placed at center, first lead card determines the first player, When the remaining deck is exhausted and the player cannot play,                 |
-   | the player does not play in the trick|25
-4  | 1211102975 | Loi Xinyi | Cards are faced up, generate a new game with randomzed 52 cards,If a player cannot follow suit or rank, the player must draw from the deck       |
-   | until a card can be played.|25
+3  | 1211102753 | Lim Cai Qing | First card in deck is the first lead card and placed at center, first lead card determines the first player, When the remaining deck is exhausted and the player cannot play, the player does not play in the trick|25
+4  | 1211102975 | Loi Xinyi | Cards are faced up, generate a new game with randomzed 52 cards,If a player cannot follow suit or rank, the player must draw from the deck until a card can be played.|25
 
 
 ## B. Part 1 Feature Completion (Latest)
